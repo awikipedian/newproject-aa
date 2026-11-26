@@ -1,2 +1,2 @@
 # newproject-aa
-using Django frame work of python
+Using Django, a Python web framework
